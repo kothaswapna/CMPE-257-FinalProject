@@ -1,2 +1,2 @@
-# CMPE-257-FinalProject
+# Emotion Recoginition using Speech
 Final Project for CMPE 257
